@@ -1,45 +1,36 @@
  <center>
-     <h1>XXX</h1>
+     <h1>个人简历</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             15068426660
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+              j1132888093@gmail.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://github.com/suavess">suavess</a>
          </span>
      </div>
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
+ - 男，1999 年出生
  - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
-
+ - 工作经验：1.5 年（校招可不填）
+ 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 大专，杭州科技职业技术学院，计算机应用技术，2017.9~2020.6
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **杭州可当科技有限公司，研发部-技术部，Java开发工程师，2020.3~2021.3**
 
    负责 XXX
 
@@ -54,9 +45,10 @@
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - ★★★ Java
-- ★★☆ C++、Python
 - ★★★ MySQL
 - ★★★ Redis
-- ★★☆ Spring
+- ★★☆ Spring、SpringCloud
+- ★★☆ MybatisPlus
 - ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★☆☆ JavaScript
+- ★☆☆ Vue

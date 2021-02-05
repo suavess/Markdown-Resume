@@ -22,7 +22,7 @@
 
  - 男，1999 年出生
  - 求职意向：Java 研发工程师
- - 工作经验：1.5 年（校招可不填）
+ - 工作经验：1.5 年
  
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 

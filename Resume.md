@@ -20,10 +20,11 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
+ - 金顺鑫
  - 男，1999 年出生
  - 求职意向：Java 研发工程师
  - 工作经验：1.5 年
- 
+
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 大专，杭州科技职业技术学院，计算机应用技术，2017.9~2020.6

@@ -84,10 +84,10 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring、SpringCloud
+- ★★★ Java、MySQL、Redis
+- ★★☆ Spring、SpringMVC、SpringBoot、SpringCloud
 - ★★☆ MybatisPlus
-- ★☆☆ JavaScript
-- ★☆☆ Vue
+- ★★☆ Lombok、Hutool、EasyExcel
+- ★★☆ SVN、Git
+- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch
+- ★☆☆ JavaScript、Vue、Axios、ElementUI

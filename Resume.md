@@ -18,7 +18,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 金顺鑫
  - 男，1999 年出生

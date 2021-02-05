@@ -39,48 +39,48 @@
 - **号卡分销系统 项目 2020.03~2021.03**
 
   *该项目为互联网卡分销项目；分为平台端、经销商端、一级代理商端、二级代理商端*
--  使用Redis的HyperLogLog统计H5页面的浏览量及访问量
--  使用Freemark渲染数据邮件并定时发送到对应邮箱
--  对接巨量引擎、快手Api做的广告投放平台
--  对接阿里云接口查询访问用户的IP归属地，并在用户疑似刷单时发送预警
--  定时查询用户所选号码的归属地
--  ......
+  -  使用Redis的HyperLogLog统计H5页面的浏览量及访问量
+  -  使用Freemark渲染数据邮件并定时发送到对应邮箱
+  -  对接巨量引擎、快手Api做的广告投放平台
+  -  对接阿里云接口查询访问用户的IP归属地，并在用户疑似刷单时发送预警
+  -  定时查询用户所选号码的归属地
+  -  ......
 
 - **多人论坛 项目**
 
   *该项目是为毕业设计编写的一个多人论坛项目*
--  后端采用SpringBoot，MybatisPlus等框架，用@Cacheable注解将常用数据缓存到Redis中，用JWT做鉴权
--  前端为SPA应用，采用了Element组件库构建，用Vue Router进行路由拦截，用v-chart生成常用统计图，Axios做ajax调用
--  使用Nginx部署，将前端请求反向代理到后端，解决跨域问题，并做虚拟主机分离前后台
--  项目前端地址：<https://github.com/suavess/vue-newworld>
--  项目后端地址：<https://github.com/suavess/springboot-newworld>
+  -  后端采用SpringBoot，MybatisPlus等框架，用@Cacheable注解将常用数据缓存到Redis中，用JWT做鉴权
+  -  前端为SPA应用，采用了Element组件库构建，用Vue Router进行路由拦截，用v-chart生成常用统计图，Axios做ajax调用
+  -  使用Nginx部署，将前端请求反向代理到后端，解决跨域问题，并做虚拟主机分离前后台
+  -  项目前端地址：<https://github.com/suavess/vue-newworld>
+  -  项目后端地址：<https://github.com/suavess/springboot-newworld>
 
 - **在线教育网站 项目**
 
   *该项目为学习SpringCloud后做的个人练手项目*
--  后端采用SpringBoot，MybatisPlus等框架，用@Cacheable注解将常用数据缓存到Redis中，用JWT做鉴权
--  对接阿里云的OSS及视频点播SDK
--  使用Nacos做服务注册、服务发现及配置中心，OpenFeign做服务调用与负载均衡，Hystrix做服务熔断，Gateway做网关路由
--  项目地址：<https://github.com/suavess/vue-newworld>
+  -  后端采用SpringBoot，MybatisPlus等框架，用@Cacheable注解将常用数据缓存到Redis中，用JWT做鉴权
+  -  对接阿里云的OSS及视频点播SDK
+  -  使用Nacos做服务注册、服务发现及配置中心，OpenFeign做服务调用与负载均衡，Hystrix做服务熔断，Gateway做网关路由
+  -  项目地址：<https://github.com/suavess/vue-newworld>
 
 
-### 英语等级考试报名系统
+- **英语等级考试报名系统**
 
   *该项目为英语等级考试报名系统；主要用于用户信息收集及结果查询*
-- 使用 Vue Router根据后端返回的用户权限动态生成侧边栏
-- 使用 Vuex 状态管理控制组件间数据
-- 使用 Axios 做ajax调用
-- 使用H5的Blob下载后端返回的文件流
+  - 使用 Vue Router根据后端返回的用户权限动态生成侧边栏
+  - 使用 Vuex 状态管理控制组件间数据
+  - 使用 Axios 做ajax调用
+  - 使用H5的Blob下载后端返回的文件流
 
-### 访客管理系统
+- **访客管理系统**
 
   *该项目为访客管理系统；包括了微信小程序端，PC端，安卓端以及企业微信端*
-- 对接企业微信接口，获取公司职员信息
-- 客户被预约时向职工发送订阅消息
+  - 对接企业微信接口，获取公司职员信息
+  - 客户被预约时向职工发送订阅消息
 
-### 门禁设备管理系统
+- **门禁设备管理系统**
 
-  *该项目为英语等级考试报名系统；主要用于用户信息收集及结果查询；技术栈与另外两个项目类似*
+  *该项目为门禁设备管理系统系统；主要用于用户信息收集及结果查询；技术栈与另外两个项目类似*
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 

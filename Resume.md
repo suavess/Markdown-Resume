@@ -29,6 +29,17 @@
 
 - 大专，杭州科技职业技术学院，计算机应用技术，2017.9~2020.6
 
+
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- ★★★ Java、MySQL、Redis
+- ★★☆ Spring、SpringMVC、SpringBoot、SpringCloud
+- ★★☆ MybatisPlus
+- ★★☆ Lombok、Hutool、EasyExcel
+- ★★☆ SVN、Git
+- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch
+- ★☆☆ JavaScript、Vue、Axios、ElementUI
+
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 - **杭州可当科技有限公司，研发部-技术部，Java开发工程师，2020.3~2021.3**
@@ -83,13 +94,3 @@
 - **门禁设备管理系统 2019.08-2019.09**
 
   *该项目为门禁设备管理系统系统；主要用于用户信息收集及结果查询；技术栈与另外两个项目类似*
-
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java、MySQL、Redis
-- ★★☆ Spring、SpringMVC、SpringBoot、SpringCloud
-- ★★☆ MybatisPlus
-- ★★☆ Lombok、Hutool、EasyExcel
-- ★★☆ SVN、Git
-- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch
-- ★☆☆ JavaScript、Vue、Axios、ElementUI

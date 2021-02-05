@@ -29,6 +29,17 @@
 
 - 大专，杭州科技职业技术学院，计算机应用技术，2017.9~2020.6
 
+
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+
+- ★★★ Java、MySQL、Redis
+- ★★☆ Spring、SpringMVC、SpringBoot、SpringCloud
+- ★★☆ MybatisPlus
+- ★★☆ Lombok、Hutool、EasyExcel
+- ★★☆ SVN、Git
+- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch
+- ★☆☆ JavaScript、Vue、Axios、ElementUI
+
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 - **杭州可当科技有限公司，研发部-技术部，Java开发工程师，2020.3~2021.3**
@@ -62,7 +73,7 @@
   -  后端采用SpringBoot，MybatisPlus等框架，用@Cacheable注解将常用数据缓存到Redis中，用JWT做鉴权
   -  对接阿里云的OSS及视频点播SDK
   -  使用Nacos做服务注册、服务发现及配置中心，OpenFeign做服务调用与负载均衡，Hystrix做服务熔断，Gateway做网关路由
-  -  项目地址：<https://github.com/suavess/vue-newworld>
+  -  项目地址：<https://github.com/suavess/online-school>
 
 
 - **英语等级考试报名系统 2019.10-2019.12**
@@ -76,19 +87,10 @@
 - **访客管理系统 2019.12-2020.1**
 
   *该项目为访客管理系统；包括了微信小程序端，PC端，安卓端以及企业微信端*
+
   - 对接企业微信接口，获取公司职员信息
   - 客户被预约时向职工发送订阅消息
 
 - **门禁设备管理系统 2019.08-2019.09**
 
   *该项目为门禁设备管理系统系统；主要用于用户信息收集及结果查询；技术栈与另外两个项目类似*
-
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-
-- ★★★ Java、MySQL、Redis
-- ★★☆ Spring、SpringMVC、SpringBoot、SpringCloud
-- ★★☆ MybatisPlus
-- ★★☆ Lombok、Hutool、EasyExcel
-- ★★☆ SVN、Git
-- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch
-- ★☆☆ JavaScript、Vue、Axios、ElementUI

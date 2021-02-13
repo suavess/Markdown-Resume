@@ -34,10 +34,9 @@
 
 - ★★★ Java、MySQL、Redis
 - ★★☆ Spring、SpringMVC、SpringBoot、SpringCloud
-- ★★☆ MybatisPlus
-- ★★☆ Lombok、Hutool、EasyExcel
+- ★★☆ MybatisPlus、Lombok、Hutool、EasyExcel
 - ★★☆ SVN、Git
-- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch
+- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch、RabbitMQ
 - ★☆☆ JavaScript、Vue、Axios、ElementUI
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历

@@ -34,9 +34,9 @@
 
 - ★★★ Java、MySQL、Redis
 - ★★☆ Spring、SpringMVC、SpringBoot、SpringCloud
-- ★★☆ MybatisPlus、Lombok、Hutool、EasyExcel
+- ★★☆ MybatisPlus、Lombok、Hutool、EasyExcel、**ElasticSearch**
 - ★★☆ SVN、Git
-- ★☆☆ Nginx、Jenkins、Docker、ElasticSearch、RabbitMQ
+- ★☆☆ Nginx、Jenkins、Docker、RabbitMQ
 - ★☆☆ JavaScript、Vue、Axios、ElementUI
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
@@ -50,6 +50,7 @@
 - **号卡分销系统 项目 2020.03~2021.03**
 
   *该项目为互联网卡分销项目；分为平台端、经销商端、一级代理商端、二级代理商端*
+
   -  使用Redis的HyperLogLog统计H5页面的浏览量及访问量
   -  使用Freemark渲染数据邮件并定时发送到对应邮箱
   -  对接巨量引擎、快手Api做的广告投放平台
@@ -57,14 +58,19 @@
   -  定时查询用户所选号码的归属地
   -  ......
 
-- **在线教育网站 项目 2021.01~2021.02**
+  ***项目为公司项目不断更新迭代，中间多次进行优化，订单表数据达到五六百万时影响了客服的搜索效率，引入ElasticSearch优化搜索效率；浏览量及访问量第一版用的是普通的String类型进行统计，后续访问量过大，导致键过多影响了Redis性能，改为HyperLogLog优化内存空间；
+  通过该项目学习了ElasticSearch的基本使用，同时复习了Redis，并对一些简单的SQL进行了调优***
+
+- **在线教育网站 项目 2021.01~2021.01**
 
   *该项目为学习SpringCloud后做的个人练手项目*
   
-  -  后端采用SpringBoot，MybatisPlus等框架，用@Cacheable注解将常用数据缓存到Redis中，用JWT做鉴权
+  -  后端采用SpringBoot，MybatisPlus等框架，Redis做缓存，用JWT做鉴权
   -  对接阿里云的OSS及视频点播SDK
   -  使用Nacos做服务注册、服务发现及配置中心，OpenFeign做服务调用与负载均衡，Hystrix做服务熔断，Gateway做网关路由
   -  项目地址：<https://github.com/suavess/online-school>
+
+  ***仿照网络上的在线教育网站，简单实现了后端接口，熟悉了SpringCloud各组件的使用***
 
 - **多人论坛 项目 2019.11~2019.12**
 
@@ -75,6 +81,8 @@
   -  使用Nginx部署，将前端请求反向代理到后端，解决跨域问题，并做虚拟主机分离前后台
   -  项目前端地址：<https://github.com/suavess/vue-newworld>
   -  项目后端地址：<https://github.com/suavess/springboot-newworld>
+
+  ***毕设时的多人论坛项目，了解了Nginx虚拟主机及反向代理的基本配置***
 
 
 - **访客管理系统 2019.12-2020.1**
